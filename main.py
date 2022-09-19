@@ -37,5 +37,5 @@ async def pdff(interaction: discord.Interaction , enter:str):
 
 
 
-bot.run("MTAxODE5NTEzNzA4NTU4NzQ4Ng.G6Tx3X.XX5ll1phw5E9qeejMBBFZJxu22_IdRDpo3xP0U")
+bot.run("")
 
