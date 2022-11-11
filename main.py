@@ -4,7 +4,7 @@ from discord.ext import commands
 import pywhatkit as pw
 import asyncio
 bot= commands.Bot(command_prefix='?', intents=discord.Intents.all())
-import requests
+import requests           
 
 
 @bot.event
